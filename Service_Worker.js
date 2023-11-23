@@ -1,6 +1,6 @@
 ;
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'APP TAUROEMISION',
+const CACHE_NAME = 'APPTAUROEMISION',
   urlsToCache = [
     './',
     './index.html',
